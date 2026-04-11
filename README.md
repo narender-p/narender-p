@@ -5,7 +5,7 @@ Rust Backend Developer focused on building reliable APIs and backend systems.
 
 ## 🛠️ Tech Stack
 - Rust
-- Actix Web / Axum
+- Actix Web 
 - PostgreSQL
 - SQLx
 - Docker
